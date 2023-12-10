@@ -20,6 +20,8 @@ void setup()
   UNITY_BEGIN();
   void test_json();
   test_json();
+  void test_base64();
+  test_base64();
   UNITY_END();
 }
 void loop() {}
